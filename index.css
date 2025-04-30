@@ -1,0 +1,150 @@
+*
+{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html, body 
+{
+  overflow-x: hidden;
+}
+
+
+body
+{
+	font-family: "Montserrat", sans-serif;
+}
+
+#landing img
+{
+	border-radius: 50%;
+	height: 350px;
+	width: 350px;
+	overflow: hidden;
+	object-fit: cover;
+}
+
+#landing
+{
+	background-color: #CBDCF2;
+	padding: 2rem 10% 3rem;
+}
+
+
+#landing h2, #landing p {
+/*Creates space between the contents of the intro section*/
+    margin-bottom: 1rem;
+}
+
+#landing h2
+{
+	font-weight: 700;
+}
+
+#landing h5
+{
+	font-weight: 600;
+}
+
+#landing h2, #landing h5, #landing p  
+{
+  color: #003E86;
+}
+
+#projects 
+{
+
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+#projects h4, #projects p 
+{
+	color: #003E86;
+}
+
+#projects h2 
+{
+
+    margin-bottom: 1rem;
+}
+
+
+#projects h3 
+{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#projects h4
+{
+	font-weight: 600;
+}
+
+#projects .card 
+{
+    display: inline-block;
+
+    vertical-align: top;
+    
+    min-height: 175px;
+    width: 30%;
+    margin-left: 0.5rem;
+    margin-right: 0.5;
+}
+
+
+#projects img
+{
+	object-fit: cover;
+	height: 200px;
+	border-radius: 8px;
+	width: 100%;
+}
+
+#projects projects
+{
+	font-family: "Montserrat", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+h1
+{	
+	font-weight: 700;
+	color: #002F7F;
+}
+
+#tools h2, #tools h5
+{
+	color: #002F7F;
+}
+
+iframe 
+{
+      width: 100%;
+      height: 300px;
+      border: 0;
+      border-radius: 8px;
+}
+
+#contact button
+{
+	background-color: #003E86;
+	border-radius: 999px;
+
+}
+
+#footer
+{
+	font-family: Montserrat;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 100%;
+	letter-spacing: 0%;
+	text-align: center;
+	background-color: #003E86;
+}
