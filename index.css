@@ -16,6 +16,11 @@ body
 	font-family: "Montserrat", sans-serif;
 }
 
+.navbar
+{
+	background-color: #001a4d;
+}
+
 #landing img
 {
 	border-radius: 50%;
@@ -27,7 +32,7 @@ body
 
 #landing
 {
-	background-color: #CBDCF2;
+	background-color: #e6eeff;
 	padding: 2rem 10% 3rem;
 }
 
@@ -49,7 +54,7 @@ body
 
 #landing h2, #landing h5, #landing p  
 {
-  color: #003E86;
+  color: #001a4d6;
 }
 
 #projects 
@@ -63,7 +68,7 @@ body
 
 #projects h4, #projects p 
 {
-	color: #003E86;
+	color: #001a4d;
 }
 
 #projects h2 
@@ -115,12 +120,12 @@ body
 h1
 {	
 	font-weight: 700;
-	color: #002F7F;
+	color: #001a4d;
 }
 
 #tools h2, #tools h5
 {
-	color: #002F7F;
+	color: #001a4d;
 }
 
 iframe 
@@ -133,7 +138,7 @@ iframe
 
 #contact button
 {
-	background-color: #003E86;
+	background-color: #001a4d;
 	border-radius: 999px;
 
 }
@@ -146,5 +151,5 @@ iframe
 	line-height: 100%;
 	letter-spacing: 0%;
 	text-align: center;
-	background-color: #003E86;
+	background-color: #001a4d;
 }
